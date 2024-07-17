@@ -1,16 +1,32 @@
-## Hi there 👋
+# About Me
 
-<!--
-**honvert/honvert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
 
-Here are some ideas to get you started:
+Hello! I am a 17-year-old developer with a passion for programming in Python and Node.js. My journey in software development has led me to explore various frameworks and build exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+
+- **Python**
+- **Node.js**
+- **C++**
+
+## Frameworks
+
+- **Express.js**
+- **Django**
+- **Flask**
+- **Mongoose**
+- and others...
+
+## Projects
+
+Feel free to check out my repositories to see some of the projects I have worked on. Each project showcases different skills and technologies I have learned and applied.
+
+## Contact
+
+You can reach out to me via:
+
+- [GitHub Issues](https://github.com/honvert)
+- [Email](mailto:mitchaandrew@example.com)
+
+Thank you for visiting my GitHub profile!
