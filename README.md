@@ -25,6 +25,6 @@ Feel free to check out my repositories to see some of the projects I have worked
 You can reach out to me via:
 
 - [GitHub Issues](https://github.com/honvert)
-- [Email](mailto:mitchaandrew@example.com)
+- [Email](mailto:mitchaandrew@gmail.com)
 
 Thank you for visiting my GitHub profile!
