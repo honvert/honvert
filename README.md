@@ -1,11 +1,7 @@
-# About Me
-
-Hello! I am a 17-year-old developer with a passion for programming in Python and Node.js. My journey in software development has led me to explore various frameworks and build exciting projects.
-
 ## Languages
 
 - **Python**
-- **Node.js**
+- **Node.js/JavaScript**
 - **C++**
 
 ## Frameworks
