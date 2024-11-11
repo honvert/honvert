@@ -3,6 +3,7 @@
 - **Python**
 - **Node.js/JavaScript**
 - **C++**
+- **C Sharp (partially)**
 
 ## Frameworks
 
