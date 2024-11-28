@@ -17,7 +17,7 @@
 
 Feel free to check out my repositories to see some of the projects I have worked on. Each project showcases different skills and technologies I have learned and applied.
 Current Projects:
-- [**ExamBuilder**](https://alpha.exambuilder.me/)
+- [**ExamBuilder**](https://exambuilder.me/)
 - [**GuardShield**](https://shieldguard.live) and [**GuardShield Vacancies**](https://shieldguard.works)
 
 ## Contact
