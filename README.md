@@ -25,5 +25,8 @@ Current Projects:
 You can reach out to me via:
 
 - [GitHub Issues](https://github.com/honvert)
+- By emailing to me: hongvertin@gmail.com
 
 Thank you for visiting my GitHub profile!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
