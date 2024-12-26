@@ -29,4 +29,4 @@ You can reach out to me via:
 
 Thank you for visiting my GitHub profile!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honvert&show_icons=true&theme=radical)
