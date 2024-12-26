@@ -1,7 +1,7 @@
 ## Languages
 
 - **Python**
-- **Node.js/JavaScript**
+- **Node.js/TypeScript/JavaScript**
 - **C++**
 - **C Sharp (partially)**
 
