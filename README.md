@@ -24,7 +24,7 @@ Current Projects:
 
 You can reach out to me via:
 
-- [GitHub Issues](https://github.com/honvert)
+- [GitHub Issues](https://github.com/honvert/honvert)
 - By emailing to me: hongvertin@gmail.com
 
 Thank you for visiting my GitHub profile!
